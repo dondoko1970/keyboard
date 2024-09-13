@@ -1,27 +1,6 @@
 # whale42_0
 
-![whale42_0](imgur.com image replace me!)
-
-*A short description of the keyboard/project*
-
-* Keyboard Maintainer: [denmushi](https://github.com/dondoko1970)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
-
-Make example for this keyboard (after setting up your build environment):
-
-    make whale42_0:default
-
-Flashing example for this keyboard:
-
-    make whale42_0:default:flash
-
-See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
-
-## Bootloader
-
-Enter the bootloader in 3 ways:
-
-* **Bootmagic reset**: Hold down the key at (0,0) in the matrix (usually the top left key or Escape) and plug in the keyboard
-* **Physical reset button**: Briefly press the button on the back of the PCB - some may have pads you must short instead
-* **Keycode in layout**: Press the key mapped to `QK_BOOT` if it is available
+文字エリア30(3×10)キー、左右に修飾キー6キー、親指6キーとした、自分用に使いやすいレイアウトのキーボードが欲しくて設計しました。
+アクリルサンドイッチ構造。
+自作キーボード初設計。
+初号機(ver1.0)はProMicroの配置をミス。二号機(ver1.1)で、トッププレートをアクリルにするなど構造をやや変更。
