@@ -1,4 +1,4 @@
-# Penpen20
+# Penpen20m 簡易ビルドガイド
 ![Penpen20m](../images/penpen20.jpg)
 
 ### 基板およびアクリルパーツ
