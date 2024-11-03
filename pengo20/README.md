@@ -1,4 +1,11 @@
 # Pengo20
+
+![Pengo20](../images/pengo20intro.jpg)
+Pengo20
+
+![Penpen20](../images/penpen20.jpg)
+Penpen20
+
 ### 基板およびアクリルパーツ
 |パーツ名|仕様|備考|
 |:---|:---|:---|
