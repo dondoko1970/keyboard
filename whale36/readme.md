@@ -1,9 +1,9 @@
-自作キーボード「Whale36」の説明文。
+#自作キーボード「Whale36」の説明文。
 [link test](../)
-M2ネジ3mm      22pieces
-M2スペーサー4mm  9pieces
-M2スペーサー6mm  3pieces
-タクトスイッチ　TS-1136-4.3  1piece
+M2ネジ3mm      22pieces  <br>
+M2スペーサー4mm  9pieces<br>
+M2スペーサー6mm  3pieces<br>
+タクトスイッチ　TS-1136-4.3  1piece  
 LED  SK6812MINI-E  36pieces
 LED  WS2812B  4pieces
 ダイオード	SMD  36pieces
