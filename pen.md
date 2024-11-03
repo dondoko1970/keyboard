@@ -1,9 +1,7 @@
-# Pengo20 & Penpen20m
-
+# Pengo20
 ![Pengo20](images/pengo20intro.jpg)
-Pengo20  
-[簡易ビルドガイド](pengo20)
+[Pengo20簡易ビルドガイド](pengo20)
 
+# Penpen20m
 ![Penpen20m](images/penpen20.jpg)
-Penpen20m  
-[簡易ビルドガイド](penpen20)
+[Penpen20簡易ビルドガイド](penpen20)
