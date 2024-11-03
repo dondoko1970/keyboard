@@ -1,23 +1,24 @@
 ## 「Whale36」
+### 基板およびアクリルパーツ
+|パーツ名|仕様|備考|
+|:---|:---|:---|
+|基板|||
+|スイッチプレート|アクリル2mm||
+|ボトムプレート|アクリル2mm||
+|カバープレート|アクリル2mm|コントローラのカバー|
 ### 必要パーツ
-- M2ネジ3mm      22pieces  
-- M2スペーサー4mm  9pieces  
-- M2スペーサー6mm  3pieces  
-- タクトスイッチ　TS-1136-4.3  1piece  
-- LED  SK6812MINI-E  36pieces
-- LED  WS2812B  4pieces
-- ダイオード	SMD  36pieces
-- chocソケット  36pieces
-- ProMicro  1piece  
-  但し、基板の設計に不備があり、通常のProMicroだと保護カバーを取り付けるためのネジ穴が干渉してしまう。カバーを取り付けるためには、SwitchScienceで取り扱っている、全長のやや短い互換機が必要。([リンク](https://www.switch-science.com/products/6576?variant=42382115995846))
 
+|パーツ名|備考|個数|
+|:---|:---|---:|
+|M2ネジ|3mm|22|
+|M2スペーサー|4mm|9|
+|M2スペーサー|6mm|3|
+|タクトスイッチ|TS-1136-4.3|1|
+|LED|SK6812MINI-E|36|
+|LED|WS2812B|4|
+|ダイオード|SMD|36|
+|chocソケット||36|
+|ProMicro|(注1)|1|
+|コンスルー|2mm~3.5mm|1|
 
-|M2ネジ|3mm|22pieces|
-|M2スペーサー|4mm|9pieces|
-|M2スペーサー|6mm|3pieces|
-|タクトスイッチ|TS-1136-4.3|1piece|
-|LED|SK6812MINI-E|36pieces|
-|LED|WS2812B|4pieces|
-|ダイオード|SMD|36pieces|
-|chocソケット||36pieces|
-|ProMicro||1piece|
+(注1) 基板の設計に不備があり、通常のProMicroだと保護カバーを取り付けるためのネジ穴が干渉してしまう。カバーを取り付けるためには、SwitchScienceで取り扱っている、全長のやや短い互換機([リンク](https://www.switch-science.com/products/6576?variant=42382115995846))が必要なうえ、USB端子側の2か所の干渉部分をヤスリなどで1,2mm程度削る必要がある。配線を傷つけないよう注意。カバーを取り付けない場合はこの作業は不要で、通常のProMicro(USB-C版で検証済)を取り付け可能。
