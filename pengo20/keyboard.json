@@ -96,10 +96,10 @@
 		{"matrix":[3,1], "x":174, "y":25 ,"flags":4},
 		{"matrix":[3,2], "x":199, "y":25 ,"flags":4},
 		{"matrix":[3,3], "x":224, "y":38 ,"flags":4},
-		{"matrix":[4,0], "x":68, "y":64 ,"flags":4},
-		{"matrix":[4,1], "x":99, "y":64 ,"flags":4},
-		{"matrix":[4,2], "x":118, "y":64 ,"flags":4},
-		{"matrix":[4,3], "x":149, "y":64 ,"flags":4}
+		{"matrix":[4,0], "x":68, "y":64 ,"flags":1},
+		{"matrix":[4,1], "x":99, "y":64 ,"flags":1},
+		{"matrix":[4,2], "x":118, "y":64 ,"flags":1},
+		{"matrix":[4,3], "x":149, "y":64 ,"flags":1}
 		]
     },
     "layouts": {

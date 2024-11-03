@@ -13,30 +13,30 @@ enum combo_events {
   SPC_ALPHA2
 };
 
-const uint16_t PROGMEM mycomboCE[] = {KC_C, KC_E, COMBO_END};
+const uint16_t PROGMEM mycomboWE[] = {KC_W, KC_E, COMBO_END};
 const uint16_t PROGMEM mycomboAS[] = {KC_A, KC_S, COMBO_END};
-const uint16_t PROGMEM mycomboCA[] = {KC_C, KC_A, COMBO_END};
-const uint16_t PROGMEM mycomboCS[] = {KC_C, KC_S, COMBO_END};
+const uint16_t PROGMEM mycomboWA[] = {KC_W, KC_A, COMBO_END};
+const uint16_t PROGMEM mycomboWS[] = {KC_W, KC_S, COMBO_END};
 const uint16_t PROGMEM mycomboSD[] = {KC_S, KC_D, COMBO_END};
-const uint16_t PROGMEM mycomboOP[] = {KC_O, KC_P, COMBO_END};
-const uint16_t PROGMEM mycomboPL[] = {KC_P, KC_L, COMBO_END};
-const uint16_t PROGMEM mycomboNM[] = {KC_N, KC_M, COMBO_END};
-const uint16_t PROGMEM mycomboHN[] = {KC_H, KC_N, COMBO_END};
-const uint16_t PROGMEM mycomboHI[] = {KC_H, KC_I, COMBO_END};
+const uint16_t PROGMEM mycomboIO[] = {KC_I, KC_O, COMBO_END};
+const uint16_t PROGMEM mycomboOM[] = {KC_O, KC_M, COMBO_END};
+const uint16_t PROGMEM mycomboKN[] = {KC_K, KC_N, COMBO_END};
+const uint16_t PROGMEM mycomboHK[] = {KC_H, KC_K, COMBO_END};
+//const uint16_t PROGMEM mycomboHI[] = {KC_H, KC_I, COMBO_END};
 //const uint16_t PROGMEM mycomboUIO[] = {KC_U, KC_I, KC_O, COMBO_END};
 
 combo_t key_combos[] = {
-    COMBO(mycomboCE, KC_LSFT),
+    COMBO(mycomboWE, KC_LSFT),
     COMBO(mycomboAS, KC_LCTL),
-	COMBO(mycomboCA, C_S_T(KC_NO)),
-    COMBO(mycomboCS, QMKFENRIR),
+	COMBO(mycomboWA, C_S_T(KC_NO)),
+    COMBO(mycomboWS, QMKFENRIR),
 	COMBO(mycomboSD, OSL(1)),
-	COMBO(mycomboHN, KC_F23),
-	COMBO(mycomboNM, OSL(3)),
-    COMBO(mycomboPL, TG(7)),
-	COMBO(mycomboHI, OSL(4)),
+	COMBO(mycomboHK, KC_F23),
+	COMBO(mycomboKN, OSL(3)),
+    COMBO(mycomboOM, TG(7)),
+//	COMBO(mycomboHI, OSL(4)),
 //	[SPC_ALPHA2] = COMBO_ACTION(mycomboGH),
-	COMBO(mycomboOP, MO(6))
+	COMBO(mycomboIO, MO(6))
 };
 /*
 void process_combo_event(uint16_t combo_index, bool pressed) {
