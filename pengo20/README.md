@@ -18,3 +18,10 @@
 |kailhソケット||20|
 |ProMicro|type-C|1|
 |コンスルー|2.5mm|1|
+
+### 組み立て方
+- LED(つけなくてもOK)、ダイオード、タクトスイッチ、kailhソケットを基板に半田付け
+- コンスルー(向きに注意)をProMicroに差し、基板に差しこんでProMicro側を半田付け
+- Remapを開いて、[Pengo20](https://remap-keys.app/catalog/NtWGzE0zA4201EqOwXhT)のファームウェアを書き込む(FLASH)
+- LEDの点灯を確認、各キーの反応をRemapのKeyMatrixなどで確認
+- 
