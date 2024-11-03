@@ -1,0 +1,11 @@
+#pragma once
+
+#define DYNAMIC_KEYMAP_LAYER_COUNT 8
+
+#define RGB_MATRIX_LED_COUNT 3
+
+
+#define TAPPING_TERM_PER_KEY
+#define TAPPING_TERM 250
+#define PERMISSIVE_HOLD
+#define QUICK_TAP_TERM 0
