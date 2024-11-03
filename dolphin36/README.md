@@ -20,7 +20,7 @@
 |LED|SK6812MINI-E|36|
 |ダイオード|SMD|36|
 |kailhソケット||36|
-|ProMicro||1|
+|ProMicro|type-C|1|
 |コンスルー|3.5mm|1|
 |キースイッチ|MX互換|36|
 |キーキャップ|MX互換|36|
