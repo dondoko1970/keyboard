@@ -17,9 +17,7 @@
 
 ![layer2](images/dolphin30layer2.png)
 
-また、左親指を(2,3)に乗せると、レイヤー１に入り、その左手でwin,ctrl,shift,alt,tabにアクセスできます。
-
-モディファイアー・レイヤー(レイヤー1)
+また、左親指を「V」に乗せると、モディファイアー・レイヤー(レイヤー1)に入り、その左手でwin,ctrl,shift,alt,tabにアクセスできます。
 
 ![モディファイアー・レイヤー](images/dolphin30layer1.png)
 
