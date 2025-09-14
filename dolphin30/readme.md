@@ -2,19 +2,6 @@
 
 <img src="images/20250914_213536.jpg" width="80%" />
 
-[このキーボードの配列について](https://github.com/dondoko1970/Dolphin30/blob/main/readme.md)
+移動しました。
 
-このキーボードを設計した動機について説明します。
-
-[キーマップについて](keymap.md)
-
-このキーボードの実際の使い勝手・使い方について説明します。
-
-
-[ビルドガイド](build.md) (作成途中)
-
-このキーボードの作成手順です。
-
-[ファームウェア](firmware.md) (作製中)
-
-このキーボードのファームウェアが置いてあります。
+[《3行×10列親指ずらし配列キーボード》「Dolphin30」ガイド](https://github.com/dondoko1970/Dolphin30/blob/main/readme.md)
