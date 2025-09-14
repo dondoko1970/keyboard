@@ -2,7 +2,7 @@
 おすすめCombo
 |キー1|キー2|キー3|出力されるキー|備考|
 |:---:|:---:|:---:|:---:|---|
-|Space|F||V|Vの位置にSPACEを割り当てている場合|
+|Space|F||B|Bの位置にSPACEを割り当てている場合|
 |A|S||L-Shift||
 |Z|X||L-Ctrl||
 |A|Z||LCS()|左Ctrl+Shift|
