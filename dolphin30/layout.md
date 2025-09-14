@@ -15,7 +15,7 @@
 
 ならば、親指で操作したい、レイヤーキーを少し下方へずらしたらどうか、という発想でこの配列を作りました。
 
-![3-10ortho lower thumb](images/3-10ortho lower thumb.png)
+<img src="images/3-10ortho lower thumb.png" width="50%" />
 
 ## キーマップについて
 おすすめCombo
