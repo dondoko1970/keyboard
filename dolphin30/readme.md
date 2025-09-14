@@ -4,4 +4,4 @@
 
 移動しました。
 
-[《3行×10列親指ずらし配列キーボード》「Dolphin30」ガイド](dondoko1970/Dolphin30)
+[《3行×10列親指ずらし配列キーボード》「Dolphin30」ガイド](https://github.com/dondoko1970/Dolphin30/blob/main/readme.md)
