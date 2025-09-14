@@ -3,4 +3,6 @@
 
 [ビルドガイド](build.md)
 
+[キーマップについて](keymap.md)
+
 [ファームウェア](firmware.md)
