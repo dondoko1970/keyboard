@@ -9,22 +9,31 @@
 
 そして、軽く(2,6)に右親指を乗せると、カーソル移動・数字レイヤーに入り、その他の右手指は自然とカーソル移動キーに乗っていると思います。
 
+基本レイヤー(レイヤー0)
+
 ![layer0](images/dolphin30layer0b.png)
 
 数字入力は左手でのテンキー配列です。
+
+移動・数字レイヤー(レイヤー1)
 
 ![layer2](images/dolphin30layer2.png)
 
 また、左親指を(2,3)に乗せると、レイヤー１に入り、その左手でwin,ctrl,shift,alt,tabにアクセスできます。
 
-![layer1](images/dolphin30layer1.png)
+モディファイアー・レイヤー(レイヤー1)
+
+![モディファイアー・レイヤー](images/dolphin30layer1.png)
 
 ここまでがおすすめレイヤーで、他に初期割り当てされているのは、記号レイヤーと、Functionレイヤーです。
 
 記号レイヤー(レイヤー4)
-![layer4](images/dolphin30layer4.png)
+
+![記号レイヤー](images/dolphin30layer4.png)
+
 Functionレイヤー(レイヤー3)
-![layer3](images/dolphin30layer3.png)
+
+![Functionレイヤー](images/dolphin30layer3.png)
 
 Esc,Delも設定されていますか、お好みで変更してください。
 
