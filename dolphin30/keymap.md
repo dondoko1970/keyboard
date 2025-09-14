@@ -19,10 +19,12 @@
 
 ![layer1](images/dolphin30layer1.png)
 
-ここまでがおすすめレイヤーで、他に初期割り当てされているのは、記号レイヤーと、Fncレイヤーです。
+ここまでがおすすめレイヤーで、他に初期割り当てされているのは、記号レイヤーと、Functionレイヤーです。
 
-![layer3](images/dolphin30layer3.png)
+記号レイヤー(レイヤー4)
 ![layer4](images/dolphin30layer4.png)
+Functionレイヤー(レイヤー3)
+![layer3](images/dolphin30layer3.png)
 
 Esc,Delも設定されていますか、お好みで変更してください。
 
